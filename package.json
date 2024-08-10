@@ -1,6 +1,6 @@
 {
-	"name": "bunkit-cart",
-	"version": "0.0.1",
+	"name": "bun-kart",
+	"version": "0.1.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
